@@ -3,6 +3,11 @@ h1.a{
 	font-weight: 500;
 	font-size: 70px;
 }
+h1.b{
+	font-family: 'Black Han Sans', sans-serif;
+	font-weight: 500;
+	font-size: 50px;
+}
 p.bl {
 	font-family: 'Black Han Sans', sans-serif;
 	font-weight: 500;
@@ -12,4 +17,30 @@ p.Jua {
 	font-family: 'Jua', sans-serif;
 	font-weight: 500;
 	font-size: 23px;
+}
+p.i {
+	font-family: 'Jua', sans-serif;
+	font-weight: 500;
+	font-size: 23px;
+	opacity:0.5;
+}
+p.J2 {
+	font-family: 'Jua', sans-serif;
+	font-weight: 200;
+	font-size: 23px;
+}
+span.sky_blue {
+    color: #03CFFD;
+}
+span.Orange {
+    color: #ffc458;
+}
+span.Mint {
+    color: #35e2c3;
+}
+span.Gray {
+	color: #739aaf;
+}
+span.blue {
+	color: #0099f7;
 }

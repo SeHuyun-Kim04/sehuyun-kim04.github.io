@@ -49,6 +49,21 @@ footer{
 	margin-right: auto;
 }
 
+.box {
+    width: 150px;
+    height: 150px; 
+    border-radius: 70%;
+    overflow: hidden;
+	text-align : center;
+}
+.profile {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+	text-align : center;
+}
+
+
 @media (max-width: 600px) {
 	.footer-left,.footer-distributed .footer-right{
 		text-align: center;
